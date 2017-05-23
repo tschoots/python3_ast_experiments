@@ -10,5 +10,6 @@ if __name__ == "__main__":
 
     fixed = ast.fix_missing_locations(node)
 
+    print(ast.dump(node))
     codeobj = compile(fixed, '<strings>', 'eval')
     print(eval(codeobj))

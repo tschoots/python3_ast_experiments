@@ -1,2 +1,12 @@
 # url with samples
-http://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts
+http://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-
+
+
+# url for uml generation
+https://github.com/tsmanner/pyuml/tree/master/parsing
+
+# calling java functions directly from python3
+https://www.py4j.org/index.html
+https://github.com/bartdag/py4j
+
+
