@@ -9,4 +9,28 @@ https://github.com/tsmanner/pyuml/tree/master/parsing
 https://www.py4j.org/index.html
 https://github.com/bartdag/py4j
 
+# pyuml
+https://github.com/tsmanner/pyuml/blob/master/parsing/__init__.py
+
+# python3 tutorial
+https://docs.python.org/3/tutorial/classes.
+
+# ast
+https://docs.python.org/3/library/ast.html
+
+https://stackoverflow.com/questions/16361390/is-there-an-ast-python3-documentation-at-least-for-the-syntax
+https://github.com/python/cpython/blob/master/Lib/ast.py
+https://stackoverflow.com/questions/1515357/simple-example-of-how-to-use-ast-nodevisitor
+https://stackoverflow.com/questions/36432630/class-diagram-viewer-application-for-python3-source
+https://stackoverflow.com/questions/4947783/visiting-nodes-in-a-syntax-tree-with-python-ast-module
+https://docs.python.org/3/index.html
+http://www.programcreek.com/python/example/4282/ast.parse
+https://docs.python.org/3/library/ast.html
+
+
+
+
+
+
+
 
